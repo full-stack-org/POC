@@ -6,5 +6,4 @@ As part of this POC covering the below topics.
 2. Config Server
 3. Reading profile specific properties files.
 4. Junit
-5. Integration test cases
-6. 
+5. Integration test cases 
